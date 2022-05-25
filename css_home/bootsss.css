@@ -1,0 +1,104 @@
+.barra { 
+background: rgb(186, 209, 141) !important;
+color: black !important;
+font-family: sans-serif !important;
+font-size: 20px !important;
+
+
+
+}
+
+.parrafo0{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    padding: 20px;  
+    
+}
+.parrafo01{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    padding: 20px;  
+}
+
+.parrafos{ 
+    color: black !important;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+.parrafos3{
+    color: black !important;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.row{
+    padding: 20px;
+font-family: sans-serif;
+font-size: 20px;
+}
+
+
+
+.titulo1{
+    text-align: center;
+    font-family: sans-serif;
+   
+   
+
+}
+.titulo2{
+    text-align: center;
+    font-family: sans-serif;
+   
+
+}
+
+.prevenfases{
+    background-color: rgb(204, 219, 174);
+}
+
+.formulario{
+    padding: 80px;
+}
+
+
+.footer{
+    width: 100%;   
+}
+
+.iconosredes{
+    text-align: center;
+    background-color: rgb(186, 209, 141);
+    ;
+   
+}
+
+.ajusteicono{
+    display: inline-flex;
+    margin: 50px 35px;
+}
+
+.textofooter{
+    padding-top: 8px;
+    width: 100;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background: black;
+    height: 80px;
+}
+
+.señales{
+    color: black !important;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
